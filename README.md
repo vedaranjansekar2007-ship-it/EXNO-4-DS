@@ -142,4 +142,4 @@ print(mi_scores)
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       we performed feature scaling and feature selection process 
